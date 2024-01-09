@@ -7,6 +7,10 @@ description: Frequently Asked Questions
 # General
 Frequently Asked Questions
 
+## Why is my Extantions not showing? 
+
+## Why is my installed Extension giving an untrusted error? 
+
 ## Why isn't Tachiyomi on the Google Play Store?
 **Tachiyomi** won't be on the **Google Play Store**.
 
